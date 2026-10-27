@@ -1,0 +1,4 @@
+composer.json
+vendor/
+bin/
+.DS_Store
